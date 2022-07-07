@@ -197,7 +197,7 @@ nav a:focus {
 
 @media(min-width: 60rem) {
     .home-hero {
-        height: 100vh;
+        height: auto;
         padding: 35vh;
     }
 }
@@ -210,7 +210,7 @@ nav a:focus {
     margin-left: -2.5%;
     outline: 2px solid #00ff6c;
     outline-offset: -2.5em;
-    color: #00ff6c;
+    color: #fff;
     position: relative;
 }
 
